@@ -8,7 +8,7 @@ depends_on:
   - lov-branding-consistency
 metadata:
   author: LovStudio
-  version: "0.2.0"
+  version: "0.2.1"
   card_standard: lovstudio/skill-card/v1
   content_class: deterministic-output
   tags:
@@ -19,7 +19,7 @@ metadata:
     - identity-preservation
 ---
 
-# lov-riso-portrait — Riso 人像
+# Riso 人像 · Riso Portrait
 
 把一张单人照片直接重绘成适合头像使用的 Riso 插画：人物仍然一眼可认，画面使用
 有限色墨、网点、纸张颗粒、粗线条和轻微套印偏移，而不是给原照片叠一层复古滤镜。
